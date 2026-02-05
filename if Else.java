@@ -42,5 +42,6 @@ public class Solution {
             System.out.println("Not Weird");
         }
         scanner.close();
+// i m using git command to learn 
     }
 }
